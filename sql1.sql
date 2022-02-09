@@ -1,2 +1,2 @@
-ALTER TABLE projects 
-ADD COLUMN cost INT NULL;
+ALTER TABLE developer
+ADD COLUMN salary INT NOT NULL ;
